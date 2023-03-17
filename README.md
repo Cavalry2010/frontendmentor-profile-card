@@ -28,7 +28,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-profile-card-preview-wWjgitR-Tx)
 - Live Site URL: [Profile Card](https://profile-card-alejandro.netlify.com)
 
 ## My process
