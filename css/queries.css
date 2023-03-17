@@ -1,0 +1,10 @@
+@media (max-width: 26em) {
+  body {
+    background-size: 150% 100%;
+    background-position: top -45rem left -31rem, bottom -39rem right -35rem;
+  }
+
+  .profile-card-box {
+    max-width: 33rem;
+  }
+}
